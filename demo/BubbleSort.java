@@ -4,6 +4,9 @@ public class BubbleSort {
     // 冒泡排序：
     // 从左到右不断交换相邻逆序的元素，在一轮的循环之后，可以让未排序的最大元素上浮到右侧。
     // 优化 - 在一轮循环中，如果没有发生交换，就说明数组已经是有序的，此时可以直接退出。
+
+    // 稳定：
+    // 相邻元素两两比较
     public static void sort(int[] arr) {
         if (arr == null || arr.length < 2) {
             return;
