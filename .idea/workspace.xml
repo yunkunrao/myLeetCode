@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea7c45cd-c53d-41ca-b96b-e1e0bcb7a83d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_007_reverse/reverse.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_008_myAtoi/myAtoi.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_007_convert/convert.go" beforeDir="false" afterPath="$PROJECT_DIR$/_006_convert/convert.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,11 +13,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_007_reverse/reverse.go">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="43" selection-start-line="43" selection-end-line="61" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_008_myAtoi/myAtoi.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="88" column="5" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/go/src/runtime/proc.go">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+              <caret line="199" selection-start-line="199" selection-end-line="199" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/main_test.go">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -35,6 +66,9 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>singleVsize</find>
+      <find>startNum</find>
+      <find>neg</find>
+      <find>c</find>
     </findStrings>
   </component>
   <component name="GOROOT" path="/usr/local/go" />
@@ -46,6 +80,9 @@
       <list>
         <option value="$PROJECT_DIR$/_007_convert/convert.go" />
         <option value="$PROJECT_DIR$/_007_reverse/reverse.go" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/main_test.go" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.go" />
+        <option value="$PROJECT_DIR$/_008_myAtoi/myAtoi.go" />
       </list>
     </option>
   </component>
@@ -71,12 +108,43 @@
             <path>
               <item name="myLeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="myLeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="_006_convert" type="462c0819:PsiDirectoryNode" />
+              <item name="_007_reverse" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="myLeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="myLeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="_007_reverse" type="462c0819:PsiDirectoryNode" />
+              <item name="_008_myAtoi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myLeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="myLeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Go SDK 1.12.5" type="20ee2d1f:SyntheticLibraryElementNode" />
+            </path>
+            <path>
+              <item name="myLeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Go SDK 1.12.5" type="20ee2d1f:SyntheticLibraryElementNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myLeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Go SDK 1.12.5" type="20ee2d1f:SyntheticLibraryElementNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="runtime" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myLeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="myLeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
             </path>
           </expand>
           <select />
@@ -108,12 +176,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build reverse.go">
+  <component name="RunManager" selected="Go Build.go build myAtoi.go">
     <configuration name="go build convert.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="myLeetCode" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/_007_convert/convert.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build myAtoi.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="myLeetCode" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/_008_myAtoi/myAtoi.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build reverse.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -123,8 +198,17 @@
       <filePath value="$PROJECT_DIR$/_007_reverse/reverse.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build scratch.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="myLeetCode" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$APPLICATION_CONFIG_DIR$/scratches/scratch.go" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build myAtoi.go" />
+        <item itemvalue="Go Build.go build scratch.go" />
         <item itemvalue="Go Build.go build reverse.go" />
         <item itemvalue="Go Build.go build convert.go" />
       </list>
@@ -175,8 +259,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_007_reverse/reverse.go">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="43" selection-start-line="43" selection-end-line="61" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/main_test.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/runtime/proc.go">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <caret line="199" selection-start-line="199" selection-end-line="199" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_008_myAtoi/myAtoi.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="88" column="5" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
         </state>
       </provider>
     </entry>
