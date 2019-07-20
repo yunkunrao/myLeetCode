@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func myAtoi(str string) int {
 	var neg, numStart bool
