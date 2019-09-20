@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea7c45cd-c53d-41ca-b96b-e1e0bcb7a83d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_012_intToRoman/intToRoman.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_1108_defangIPaddr/defangIPaddr.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -10,28 +10,6 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_009_isPalindrome/isPalindrome.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_012_intToRoman/intToRoman.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="125" column="29" selection-start-line="125" selection-start-column="29" selection-end-line="125" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,82 +30,32 @@
       <find>Println</find>
     </findStrings>
   </component>
-  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GOROOT" path="/usr/lib/go-1.10" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/_007_convert/convert.go" />
-        <option value="$PROJECT_DIR$/_007_reverse/reverse.go" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/main_test.go" />
-        <option value="$PROJECT_DIR$/_008_myAtoi/myAtoi.go" />
-        <option value="$PROJECT_DIR$/_009_isPalindrome/isPalindrome.go" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.go" />
-        <option value="$PROJECT_DIR$/_010_isMatch/isMatch.go" />
-        <option value="$PROJECT_DIR$/_011_maxArea/maxArea.go" />
-        <option value="$PROJECT_DIR$/_012_intToRoman/intToRoman.go" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="980" />
-  </component>
+  <component name="ProjectId" id="1R63fkzmnVuPIGMIpAx7BX9RORZ" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="myLeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myLeetCode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myLeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myLeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="_009_isPalindrome" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myLeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myLeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="_012_intToRoman" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myLeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-            </path>
-            <path>
-              <item name="myLeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="go" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -141,7 +69,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build intToRoman.go">
+  <component name="RunManager" selected="Go Build.go build scratch.go">
     <configuration name="go build intToRoman.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="myLeetCode" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -158,19 +86,19 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build isPalindrome.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="myLeetCode" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/_009_isPalindrome/isPalindrome.go" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
     <configuration name="go build maxArea.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="myLeetCode" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/_011_maxArea/maxArea.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build numJewelsInStones.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="myLeetCode" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/_771_numJewelsInStones/numJewelsInStones.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -183,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build scratch.go" />
+        <item itemvalue="Go Build.go build numJewelsInStones.go" />
         <item itemvalue="Go Build.go build intToRoman.go" />
         <item itemvalue="Go Build.go build maxArea.go" />
         <item itemvalue="Go Build.go build isMatch.go" />
-        <item itemvalue="Go Build.go build scratch.go" />
-        <item itemvalue="Go Build.go build isPalindrome.go" />
       </list>
     </recent_temporary>
   </component>
@@ -200,31 +128,6 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26800978" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32959184" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32959184" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32959184" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32959184" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -234,20 +137,7 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
+              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
@@ -267,107 +157,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_005_longestPalindrome/resolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="802">
-          <caret line="90" column="8" selection-start-line="90" selection-start-column="8" selection-end-line="90" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_006_convert/convert.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="82" column="5" lean-forward="true" selection-start-line="58" selection-start-column="4" selection-end-line="82" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/main_test.go" />
-    <entry file="file://$PROJECT_DIR$/_007_reverse/reverse.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" selection-start-line="43" selection-end-line="61" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_008_myAtoi/myAtoi.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="56" column="4" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_010_isMatch/isMatch.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="40" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/go/src/fmt/print.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4505">
-          <caret line="273" selection-start-line="273" selection-end-line="273" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/go/src/runtime/asm_amd64.s">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8806">
-          <caret line="518" selection-start-line="518" selection-end-line="518" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/go/src/runtime/proc.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2516">
-          <caret line="153" selection-start-line="153" selection-end-line="153" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/go/src/runtime/panic.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_011_maxArea/maxArea.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_009_isPalindrome/isPalindrome.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_012_intToRoman/intToRoman.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="125" column="29" selection-start-line="125" selection-start-column="29" selection-end-line="125" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
