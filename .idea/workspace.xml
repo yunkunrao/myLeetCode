@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea7c45cd-c53d-41ca-b96b-e1e0bcb7a83d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_707_MyLinkedList/MyLinkedList.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_807_maxIncreaseKeepingSkyline/maxIncreaseKeepingSkyline.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build MyLinkedList.go">
+  <component name="RunManager" selected="Go Build.go build scratch.go">
     <configuration name="go build MyLinkedList.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="myLeetCode" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -99,10 +99,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build scratch.go" />
         <item itemvalue="Go Build.go build MyLinkedList.go" />
         <item itemvalue="Go Build.go build canWinNim.go" />
         <item itemvalue="Go Build.go build sortedSquares.go" />
-        <item itemvalue="Go Build.go build scratch.go" />
         <item itemvalue="Go Build.go build numJewelsInStones.go" />
       </list>
     </recent_temporary>
@@ -153,11 +153,6 @@
           <url>file://$PROJECT_DIR$/_707_MyLinkedList/MyLinkedList.go</url>
           <line>169</line>
           <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/_707_MyLinkedList/MyLinkedList.go</url>
-          <line>91</line>
-          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
