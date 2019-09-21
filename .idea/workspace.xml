@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea7c45cd-c53d-41ca-b96b-e1e0bcb7a83d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_807_maxIncreaseKeepingSkyline/maxIncreaseKeepingSkyline.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_950_deckRevealedIncreasing/deckRevealedIncreasing.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build scratch.go">
+  <component name="RunManager" selected="Go Build.go build deckRevealedIncreasing.go">
     <configuration name="go build MyLinkedList.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="myLeetCode" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -74,11 +74,11 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build numJewelsInStones.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build deckRevealedIncreasing.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="myLeetCode" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/_771_numJewelsInStones/numJewelsInStones.go" />
+      <filePath value="$PROJECT_DIR$/_950_deckRevealedIncreasing/deckRevealedIncreasing.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -99,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build deckRevealedIncreasing.go" />
         <item itemvalue="Go Build.go build scratch.go" />
         <item itemvalue="Go Build.go build MyLinkedList.go" />
         <item itemvalue="Go Build.go build canWinNim.go" />
         <item itemvalue="Go Build.go build sortedSquares.go" />
-        <item itemvalue="Go Build.go build numJewelsInStones.go" />
       </list>
     </recent_temporary>
   </component>
