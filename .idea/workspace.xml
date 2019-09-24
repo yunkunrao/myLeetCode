@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea7c45cd-c53d-41ca-b96b-e1e0bcb7a83d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_1008_bstFromPreorder/bstFromPreorder.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_894_allPossibleFBT/allPossibleFBT.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/misc/minPathFromBT/minPath.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,6 +39,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
@@ -57,12 +59,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build permute.go">
-    <configuration name="go build countBits.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build allPossibleFBT.go">
+    <configuration name="go build allPossibleFBT.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="myLeetCode" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/_338_countBits/countBits.go" />
+      <filePath value="$PROJECT_DIR$/_894_allPossibleFBT/allPossibleFBT.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -74,11 +76,11 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build generateParenthesis.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build minPath.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="myLeetCode" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/_22_generateParenthesis/generateParenthesis.go" />
+      <filePath value="$PROJECT_DIR$/misc/minPathFromBT/minPath.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -99,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build allPossibleFBT.go" />
+        <item itemvalue="Go Build.go build minPath.go" />
         <item itemvalue="Go Build.go build permute.go" />
         <item itemvalue="Go Build.go build scratch.go" />
         <item itemvalue="Go Build.go build generateMatrix.go" />
-        <item itemvalue="Go Build.go build countBits.go" />
-        <item itemvalue="Go Build.go build generateParenthesis.go" />
       </list>
     </recent_temporary>
   </component>
