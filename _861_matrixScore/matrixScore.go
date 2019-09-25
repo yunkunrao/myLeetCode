@@ -52,6 +52,5 @@ func matrixScore(A [][]int) int {
 
 func main() {
 	testData := [][]int{{1,1},{1,1},{0,1}}
-
 	fmt.Println(matrixScore(testData))
 }
