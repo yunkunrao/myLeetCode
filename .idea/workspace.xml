@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea7c45cd-c53d-41ca-b96b-e1e0bcb7a83d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_1038_bstToGst/bstToGst.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/misc/test/test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_77_combine/combine.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_861_matrixScore/matrixScore.go" beforeDir="false" afterPath="$PROJECT_DIR$/_861_matrixScore/matrixScore.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,20 +58,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build bstToGst.go">
-    <configuration name="go build allPossibleFBT.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="myLeetCode" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/_894_allPossibleFBT/allPossibleFBT.go" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build combine.go">
     <configuration name="go build bstToGst.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="myLeetCode" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/_1038_bstToGst/bstToGst.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build combine.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="myLeetCode" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/_77_combine/combine.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -102,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build combine.go" />
         <item itemvalue="Go Build.go build bstToGst.go" />
         <item itemvalue="Go Build.go build test.go" />
         <item itemvalue="Go Build.go build scratch.go" />
         <item itemvalue="Go Build.go build matrixScore.go" />
-        <item itemvalue="Go Build.go build allPossibleFBT.go" />
       </list>
     </recent_temporary>
   </component>
@@ -162,6 +160,11 @@
           <url>file://$PROJECT_DIR$/_1038_bstToGst/bstToGst.go</url>
           <line>24</line>
           <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/_77_combine/combine.go</url>
+          <line>32</line>
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
