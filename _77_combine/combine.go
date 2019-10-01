@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"sort"
+)
 
 func compareSlice(s1, s2 []int) bool {
 	if len(s1) != len(s2) {
@@ -15,38 +18,29 @@ func compareSlice(s1, s2 []int) bool {
 	return true
 }
 
-func combine(n int, k int) [][]int {
+func findKSumPairs(array []int, k int) [][]int {
 	var ret [][]int
-	if k == 1 {
-		for i := 1; i <= n; i++ {
-			tmp := []int{i}
+	start := 0
+	end := len(array) - 1
+
+	sort.Ints(array)
+	for start < end {
+		if array[end] - array[start]> k {
+			end--
+		} else if array[end] - array[start] < k {
+			start++
+		} else {
+			tmp := []int{array[start], array[end]}
 			ret = append(ret, tmp)
+			start++
+			end--
 		}
-		return ret
 	}
-
-	if n == k {
-		var tmp []int
-		for i := 1; i <= n; i++ {
-			tmp = append(tmp, i)
-		}
-		ret = append(ret, tmp)
-		return ret
-	}
-
-	for _, line := range combine(n-1, k-1) {
-		line = append(line, n)
-		ret = append(ret, line)
-	}
-
-	for _, line := range combine(n-1, k) {
-		ret = append(ret, line)
-	}
-
 	return ret
 }
 
 func main() {
-	ret := combine(4, 2)
-	fmt.Println(ret)
+	input := []int{1, 2, 3, 5, 7}
+	// (1, 3) (3, 5) (5, 7)
+	fmt.Println(findKSumPairs(input, 2))
 }
