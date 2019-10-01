@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea7c45cd-c53d-41ca-b96b-e1e0bcb7a83d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_241_diffWaysToCompute/diffWaysToCompute.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_52_totalNQueens/totalNQueens.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_216_combinationSum3/combinationSum3.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_77_combine/combine.go" beforeDir="false" afterPath="$PROJECT_DIR$/_77_combine/combine.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,12 +58,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build diffWaysToCompute.go">
-    <configuration name="go build bstToGst.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build combinationSum3.go">
+    <configuration name="go build combinationSum3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="myLeetCode" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/_1038_bstToGst/bstToGst.go" />
+      <filePath value="$PROJECT_DIR$/_216_combinationSum3/combinationSum3.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -102,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build diffWaysToCompute.go" />
+        <item itemvalue="Go Build.go build combinationSum3.go" />
         <item itemvalue="Go Build.go build scratch.go" />
+        <item itemvalue="Go Build.go build diffWaysToCompute.go" />
         <item itemvalue="Go Build.go build totalNQueens.go" />
         <item itemvalue="Go Build.go build combine.go" />
-        <item itemvalue="Go Build.go build bstToGst.go" />
       </list>
     </recent_temporary>
   </component>
