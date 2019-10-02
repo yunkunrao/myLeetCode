@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea7c45cd-c53d-41ca-b96b-e1e0bcb7a83d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_763_partitionLabels/partitionLabels.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_39_combinationSum/combinationSum.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,12 +58,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build partitionLabels.go">
-    <configuration name="go build combinationSum3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build combinationSum.go">
+    <configuration name="go build combinationSum.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="myLeetCode" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/_216_combinationSum3/combinationSum3.go" />
+      <filePath value="$PROJECT_DIR$/_39_combinationSum/combinationSum.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -100,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build combinationSum.go" />
+        <item itemvalue="Go Build.go build scratch.go" />
         <item itemvalue="Go Build.go build partitionLabels.go" />
         <item itemvalue="Go Build.go build findAndReplacePattern.go" />
-        <item itemvalue="Go Build.go build scratch.go" />
         <item itemvalue="Go Build.go build inorderTraversal.go" />
-        <item itemvalue="Go Build.go build combinationSum3.go" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +170,11 @@
           <url>file://$PROJECT_DIR$/_52_totalNQueens/totalNQueens.go</url>
           <line>59</line>
           <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/_39_combinationSum/combinationSum.go</url>
+          <line>16</line>
+          <option name="timeStamp" value="75" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
