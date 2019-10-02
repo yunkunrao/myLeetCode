@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea7c45cd-c53d-41ca-b96b-e1e0bcb7a83d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_537_complexNumberMultiply/complexNumberMultiply.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_289_gameOfLife/gameOfLife.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build complexNumberMultiply.go">
+  <component name="RunManager" selected="Go Build.go build gameOfLife.go">
     <configuration name="go build combinationSum.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="myLeetCode" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -75,11 +75,11 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build findAndReplacePattern.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build gameOfLife.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="myLeetCode" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/_890_findAndReplacePattern/findAndReplacePattern.go" />
+      <filePath value="$PROJECT_DIR$/_289_gameOfLife/gameOfLife.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -100,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build gameOfLife.go" />
         <item itemvalue="Go Build.go build complexNumberMultiply.go" />
         <item itemvalue="Go Build.go build scratch.go" />
         <item itemvalue="Go Build.go build combinationSum.go" />
         <item itemvalue="Go Build.go build partitionLabels.go" />
-        <item itemvalue="Go Build.go build findAndReplacePattern.go" />
       </list>
     </recent_temporary>
   </component>
@@ -180,6 +180,11 @@
           <url>file://$PROJECT_DIR$/_537_complexNumberMultiply/complexNumberMultiply.go</url>
           <line>81</line>
           <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/_289_gameOfLife/gameOfLife.go</url>
+          <line>57</line>
+          <option name="timeStamp" value="81" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
