@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea7c45cd-c53d-41ca-b96b-e1e0bcb7a83d" name="Default Changelist" comment="" />
+    <list default="true" id="ea7c45cd-c53d-41ca-b96b-e1e0bcb7a83d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_048_rotate/rotate.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,15 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build stoneGame.go">
-    <configuration name="go build combinationSum.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="myLeetCode" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/_39_combinationSum/combinationSum.go" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build rotate.go">
     <configuration name="go build complexNumberMultiply.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="myLeetCode" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -77,6 +72,14 @@
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/_289_gameOfLife/gameOfLife.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build rotate.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="myLeetCode" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/_048_rotate/rotate.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -97,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build rotate.go" />
         <item itemvalue="Go Build.go build stoneGame.go" />
         <item itemvalue="Go Build.go build gameOfLife.go" />
         <item itemvalue="Go Build.go build complexNumberMultiply.go" />
         <item itemvalue="Go Build.go build scratch.go" />
-        <item itemvalue="Go Build.go build combinationSum.go" />
       </list>
     </recent_temporary>
   </component>
@@ -192,6 +195,16 @@
           <url>file://$PROJECT_DIR$/_877_stoneGame/stoneGame.go</url>
           <line>14</line>
           <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/_048_rotate/rotate.go</url>
+          <line>65</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/_048_rotate/rotate.go</url>
+          <line>39</line>
+          <option name="timeStamp" value="94" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
