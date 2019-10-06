@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea7c45cd-c53d-41ca-b96b-e1e0bcb7a83d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_442_findDuplicates/findDuplicates.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_105_buildTree/buildTree.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,20 +58,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build findDuplicates.go">
+  <component name="RunManager" selected="Go Build.go build buildTree.go">
+    <configuration name="go build buildTree.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="myLeetCode" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/_105_buildTree/buildTree.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build findDuplicates.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="myLeetCode" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/_442_findDuplicates/findDuplicates.go" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build minPathSum.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="myLeetCode" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/_64_minPathSum/minPathSum.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -101,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build buildTree.go" />
         <item itemvalue="Go Build.go build findDuplicates.go" />
         <item itemvalue="Go Build.go build minimumTotal.go" />
         <item itemvalue="Go Build.go build reconstructQueue.go" />
         <item itemvalue="Go Build.go build sortList.go" />
-        <item itemvalue="Go Build.go build minPathSum.go" />
       </list>
     </recent_temporary>
   </component>
@@ -231,6 +231,11 @@
           <url>file://$PROJECT_DIR$/_406_reconstructQueue/reconstructQueue.go</url>
           <line>34</line>
           <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/_105_buildTree/buildTree.go</url>
+          <line>38</line>
+          <option name="timeStamp" value="128" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
