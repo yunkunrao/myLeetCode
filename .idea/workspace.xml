@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea7c45cd-c53d-41ca-b96b-e1e0bcb7a83d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_885_spiralMatrixIII/spiralMatrixIII.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_986_intervalIntersection/intervalIntersection.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build spiralMatrixIII.go">
+  <component name="RunManager" selected="Go Build.go build intervalIntersection.go">
     <configuration name="go build insertionSortList.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="myLeetCode" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -67,19 +67,19 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build intervalIntersection.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="myLeetCode" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/_986_intervalIntersection/intervalIntersection.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build longestPalindrome.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="myLeetCode" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/_005_longestPalindrome/longestPalindrome.go" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build rightSideView.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="myLeetCode" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/_199_rightSideView/rightSideView.go" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
@@ -101,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build intervalIntersection.go" />
         <item itemvalue="Go Build.go build spiralMatrixIII.go" />
         <item itemvalue="Go Build.go build scratch.go" />
         <item itemvalue="Go Build.go build longestPalindrome.go" />
         <item itemvalue="Go Build.go build insertionSortList.go" />
-        <item itemvalue="Go Build.go build rightSideView.go" />
       </list>
     </recent_temporary>
   </component>
@@ -231,11 +231,6 @@
           <url>file://$PROJECT_DIR$/_406_reconstructQueue/reconstructQueue.go</url>
           <line>34</line>
           <option name="timeStamp" value="126" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/_885_spiralMatrixIII/spiralMatrixIII.go</url>
-          <line>63</line>
-          <option name="timeStamp" value="139" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/_885_spiralMatrixIII/spiralMatrixIII.go</url>
